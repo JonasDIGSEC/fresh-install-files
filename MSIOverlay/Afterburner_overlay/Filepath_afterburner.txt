@@ -1,0 +1,2 @@
+# MSI Afterburner
+C:\Program Files (x86)\MSI Afterburner\Profiles
